@@ -1,4 +1,4 @@
-[# Smart Revenue Cycle Management (RCM) Optimization
+# Smart Revenue Cycle Management (RCM) Optimization
 ## Financial Gap Remediation & Revenue Leakage Analytics at Elite Gulf Specialist Hospital
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -13,8 +13,8 @@ This project focuses on resolving severe cash flow challenges and bridging the e
 By engineering a robust, **4-page Business Intelligence (BI) application** built on a normalized **Star Schema data model**, this analysis successfully uncovered **$17.66 Million in total revenue leakage** and established a clear data-driven roadmap toward financial recovery.
 
 ### 🔗 Project Links
-* **Full Case Study Article:** [Read the Detailed Article on Medium](YOUR_MEDIUM_LINK_HERE)
-* **Interactive Dashboard:** [Explore the Live Power BI Report](YOUR_POWER_BI_OR_NOVYPRO_LINK_HERE)
+* **Full Case Study Article:** [Read the Detailed Article on Medium](https://medium.com/@esthyqn8/building-a-healthcare-analytics-dashboard-in-power-bi-55-000-patient-records-analyzed-6d85e5f660e6)
+* **Interactive Dashboard:** [Explore the Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNjYwODEyMDktZjdjMi00MTg5LWJiZTUtMDNhZTY0NDZhY2RhIiwidCI6IjAwMGUwNGNmLTllYjEtNGE3Mi1hZGU4LWZkZGJjNDA4NWJhOSJ9)
 
 ---
 
@@ -76,4 +76,4 @@ Based on the dashboard insights, three board-level recommendations were delivere
 ---
 
 ## 📬 Contact & Connect
-* **LinkedIn:** [Mohamed Hashim on LinkedIn](YOUR_LINKEDIN_LINK_HERE)](https://www.linkedin.com/in/mohamed-hashim-ibrahim-/)
+* **LinkedIn:** [Mohamed Hashim on LinkedIn](https://www.linkedin.com/in/mohamed-hashim-ibrahim-/)
