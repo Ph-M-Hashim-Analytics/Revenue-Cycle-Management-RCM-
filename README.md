@@ -13,7 +13,7 @@ This project focuses on resolving severe cash flow challenges and bridging the e
 By engineering a robust, **4-page Business Intelligence (BI) application** built on a normalized **Star Schema data model**, this analysis successfully uncovered **$17.66 Million in total revenue leakage** and established a clear data-driven roadmap toward financial recovery.
 
 ### 🔗 Project Links
-* **Full Case Study Article:** [Read the Detailed Article on Medium](https://medium.com/@esthyqn8/building-a-healthcare-analytics-dashboard-in-power-bi-55-000-patient-records-analyzed-6d85e5f660e6)
+* **Full Case Study Article:** [Read My Detailed Article on Medium](https://medium.com/@mohred19189/smart-revenue-cycle-management-rcm-how-i-uncovered-17-66-f5a14c1f7502)
 * **Interactive Dashboard:** [Explore the Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNjYwODEyMDktZjdjMi00MTg5LWJiZTUtMDNhZTY0NDZhY2RhIiwidCI6IjAwMGUwNGNmLTllYjEtNGE3Mi1hZGU4LWZkZGJjNDA4NWJhOSJ9)
 
 ---
